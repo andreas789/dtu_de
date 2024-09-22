@@ -24,7 +24,7 @@ az storage blob download \
 az storage blob download \
     --account-name dataengineerv1 \
     --container-name your-name \
-    --name Top3-Categories-Per-Country-Andreas-Patsilivas.csv \
+    --name Top3-Categories-Per-Country-Your-Name.csv \
     --file /home/azureuser/Top3-Categories-Per-Country-Your-Name.csv \
     --auth-mode login
 
